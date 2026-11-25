@@ -26,6 +26,14 @@
 **Вывод в консоли (реальные вакансии через API):**
 ![API вывод](screenshots/v2_habr_api_output.png)
 
+### Версия 3.0 (API + JSON + фильтр)
+
+**Вывод в консоли (вакансии после фильтрации):**
+![Фильтр v3](screenshots/v3_filter_output.png)
+
+**Сохранение отфильтрованных данных в файл `vacancies.json`:**
+![JSON файл v3](screenshots/v3_json_file.png)
+
 ## Структура проекта
 ```text
 Vacancy-Parser/
